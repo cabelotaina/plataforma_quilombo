@@ -5,9 +5,9 @@ Plataforma Quilombo
 
 O sistema é um CMS conhecido, Drupal, para colocar o sistema em funcionamento é necessário algumas dependencias
 
-Apache2
-PHP
-MySQL
+- Apache2
+- PHP
+- MySQL
 
 Com tudo isso basta colocar os arquivos na pasta www, httpd ou outro nome que foi utilizado em seu sistema operacional.
 
