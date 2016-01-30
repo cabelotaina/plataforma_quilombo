@@ -1,7 +1,4 @@
-# plataforma_quilombo
-
-Plataforma Quilombo
-
+# Plataforma Quilombo
 
 O sistema é um CMS conhecido, Drupal, para colocar o sistema em funcionamento é necessário algumas dependencias
 
